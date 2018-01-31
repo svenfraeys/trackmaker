@@ -1,0 +1,7 @@
+Version 1.1
+--------------
+- Dialog Install Position
+- Update System improved
+Version 1.0
+-------------
+- Added "Inherit Rotation"-toggle, perfect for escalators!
